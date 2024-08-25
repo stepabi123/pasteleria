@@ -1,0 +1,67 @@
+body{
+    background: linear-gradient(80deg, #b77cd9, #e1c6f1);
+    background-size: cover;
+}
+nav img{
+    width: 80px;
+    background-color: white;
+}
+nav .text-matricula{
+    color: white;
+}
+p{
+    font-family: 'Cambria', Times, serif;
+}
+.escrito{
+    font-size: 60px;
+    font-weight: 700;
+}
+.escrito:hover{
+    cursor: pointer;
+    color: white;
+}
+.escrito1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.escrito1:hover{
+    cursor: pointer;
+    color: white;
+}
+.letra{
+    font-family: 'Cambria', Times, serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.letra:hover{
+    cursor: pointer;
+    color: rgb(96, 19, 140);
+}
+.letra1{
+    font-family: 'Cambria', Times, serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.letra1:hover{
+    cursor: pointer;
+    color: rgb(96, 19, 140);
+}
+#borde{
+    margin-top: 40px;
+    width: auto;
+    border-bottom: 1px solid black;
+}
+.principal img{
+    height: 80px;
+}
+#footer{
+    background-color: rgb(116, 87, 132) ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#footer a{
+    text-decoration: none;
+    color: white;
+}
